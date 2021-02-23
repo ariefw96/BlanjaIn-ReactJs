@@ -36,7 +36,7 @@ sellers.
 ## Installation for Development
 
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/ariefw96/BlanjaIn-React.git`
+2. Type `git clone https://github.com/ariefw96/BlanjaIn-Reactjs.git`
 3. Open the folder and type `npm install` or `yarn install` for install dependencies from package.json
 4. Create file **_.env_** in root directory with the following contents :
 
