@@ -62,16 +62,19 @@ REACT_APP_BASE_URL = "http://localhost:8000"
 
 ### Login Screen
 
-https://user-images.githubusercontent.com/70320451/108819959-1a5e8380-75ee-11eb-82f0-acf572dae37a.png
+<img src="https://user-images.githubusercontent.com/70320451/108819959-1a5e8380-75ee-11eb-82f0-acf572dae37a.png" />
 
 ### Home Screen
-https://user-images.githubusercontent.com/70320451/108819969-1d597400-75ee-11eb-8787-471405084482.png
+<img src="https://user-images.githubusercontent.com/70320451/108819969-1d597400-75ee-11eb-8787-471405084482.png" />
 
 ### Category
-https://user-images.githubusercontent.com/70320451/108819974-1fbbce00-75ee-11eb-95fc-91e1496e8163.png
+<img src="https://user-images.githubusercontent.com/70320451/108819974-1fbbce00-75ee-11eb-95fc-91e1496e8163.png" />
+
+### Product Details
+<img src="https://user-images.githubusercontent.com/70320451/108819975-20ecfb00-75ee-11eb-970e-360712053499.png" />
 
 ### My Bag
-https://user-images.githubusercontent.com/70320451/108819975-20ecfb00-75ee-11eb-970e-360712053499.png
+<img src="https://user-images.githubusercontent.com/70320451/108819980-221e2800-75ee-11eb-8490-c191556f69ea.png" />
 
 ## Related Project
 
