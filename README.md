@@ -6,6 +6,7 @@
 - [Features](#features)
 - [Requirements](#requirements-for-development)
 - [Installation](#installation-for-development)
+- [Screenshot](#screenshot)
 - [Related project](#related-project)
 
 ## Description
@@ -56,6 +57,21 @@ REACT_APP_BASE_URL = "http://localhost:8000"
 5. Before run this project, you must configure and run backend. You can find backend for this project [here](https://github.com/ariefw96/blanja-restAPI)
 6. Type `npm run server` in terminal for running backend.
 7. If you want to build this project, type `npm start` or `yarn start`.
+
+## Screenshot
+
+### Login Screen
+
+https://user-images.githubusercontent.com/70320451/108819959-1a5e8380-75ee-11eb-82f0-acf572dae37a.png
+
+### Home Screen
+https://user-images.githubusercontent.com/70320451/108819969-1d597400-75ee-11eb-8787-471405084482.png
+
+### Category
+https://user-images.githubusercontent.com/70320451/108819974-1fbbce00-75ee-11eb-95fc-91e1496e8163.png
+
+### My Bag
+https://user-images.githubusercontent.com/70320451/108819975-20ecfb00-75ee-11eb-970e-360712053499.png
 
 ## Related Project
 
